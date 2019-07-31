@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Lista1PCD.dir/main.c.o  -o Lista1PCD 
